@@ -1,1 +1,1 @@
-# a BDC demo project
+# A BDC demo project
